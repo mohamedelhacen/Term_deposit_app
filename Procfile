@@ -1,0 +1,1 @@
+web: gunicorn <trrm_deposit>.wsgi --log-file -
