@@ -1,0 +1,16 @@
+.label-input {
+	margin: 20px;
+	display: block;
+}
+input, select, label{
+	display: block;
+	margin: 10px;
+}
+
+
+form {
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
